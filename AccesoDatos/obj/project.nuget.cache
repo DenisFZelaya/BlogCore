@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fauYi3xWmqGtQegzBfeh9spS1urhsllKIvdQSRlJv7THzlAHEHXKRLpZMn3QbdjHJC2lDXrXhoiBY9xq8Yk0Pg==",
+  "success": true,
+  "projectFilePath": "D:\\Proyectos\\Web\\ASP.NET\\BlogCore\\AccesoDatos\\AccesoDatos.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DFZ\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
